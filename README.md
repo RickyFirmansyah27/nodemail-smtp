@@ -10,8 +10,8 @@ Implementation :
 
 #### Screenshoot Output
 Hasil Email yang dikirim
-![Output](images/Output.PNG)
+![Output](image/Output.PNG)
 
 #### Screenshot Link
 Hyerplink - miniapp
-![Link](images/Link.PNG)
+![Link](image/Link.PNG)
